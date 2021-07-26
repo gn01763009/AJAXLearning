@@ -1,0 +1,25 @@
+{
+  "name": "AJAXLearning",
+  "version": "1.0.0",
+  "description": "前言： 讓我學習AJAX的repo，我使用express創建API server",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gn01763009/AJAXLearning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gn01763009/AJAXLearning/issues"
+  },
+  "homepage": "https://github.com/gn01763009/AJAXLearning#readme"
+}
